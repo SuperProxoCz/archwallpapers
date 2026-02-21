@@ -1,3 +1,6 @@
+# EVERY SINGLE ONE WAS MADE W/[KLECKS](https://github.com/bitbof/klecks)!!! YOLO!
+
+
 # Stripes
 
 **[Dark Blue Teal](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/dark_blueteal_stripes.png)**
