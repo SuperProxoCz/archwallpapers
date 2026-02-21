@@ -21,8 +21,8 @@
 **[Light Magenta Purple](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/light_magentapurple_stripes.png)** 
 <a href="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/light_magentapurple_stripes.png" download><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/light_magentapurple_stripes.png" width="400"></a>
 
-**[Light Yellow Pink](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/light_yellowpink_stripes.png)** 
-<a href="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/light_yellowpink_stripes.png" download><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/light_yellowpink_stripes.png" width="400"></a>
+**[Light Yellow Pink](https://github.com/SuperProxoCz/archwallpapers/blob/main/dark_yellowpink_stripes.png)** 
+<a href="https://github.com/SuperProxoCz/archwallpapers/blob/main/dark_yellowpink_stripes.png" download><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/light_yellowpink_stripes.png" width="400"></a>
 
 ---
 
