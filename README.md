@@ -126,9 +126,7 @@
   </tr>
 </table>
 
-**[Yellow Pink](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_yellowpink_stripes.png)**              
-**[Blue Pink](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_purplepink_stripes.png)**              
-**[Blue Green](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_bluegreen_stripes.png)**
+**[Yellow Pink](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_yellowpink_stripes.png)**       **[Blue Pink](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_purplepink_stripes.png)**       **[Blue Green](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_bluegreen_stripes.png)**
 
 
 
