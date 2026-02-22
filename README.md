@@ -118,6 +118,21 @@
 # MOBILE (vertical)
 ### only light stripes for now
 
-<img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_yellowpink_stripes.png" width="32%">
-<img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_purplepink_stripes.png" width="32%">
-<img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_bluegreen_stripes.png" width="32%">
+<table border="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_yellowpink_stripes.png" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_purplepink_stripes.png" width="300"></td>
+    <td><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_bluegreen_stripes.png" width="300"></td>
+  </tr>
+</table>
+
+**[Yellow Pink](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_yellowpink_stripes.png)**
+**[Blue Pink](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_purplepink_stripes.png)**
+**[Blue Green](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_bluegreen_stripes.png)**
+
+
+
+
+
+
+
