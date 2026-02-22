@@ -114,3 +114,18 @@
 **[Dark Stripes (Animated)](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/dark_stripes_animated.mp4)**
 <br>
 <a href="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/dark_stripes_animated.mp4" download><video src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/dark_stripes_animated.mp4" width="400" controls></video></a>
+
+# MOBILE (vertical)
+### only light stripes for now
+
+**[Yellow Pink](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_yellowpink_stripes.png)**
+<br>
+<a href="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_yellowpink_stripes.png" download><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_yellowpink_stripes.png" width="400"></a>
+
+**[Blue Pink](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_purplepink_stripes.png)**
+<br>
+<a href="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_purplepink_stripes.png" download><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_purplepink_stripes.png" width="400"></a>
+
+**[Blue Green](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_bluegreen_stripes.png)**
+<br>
+<a href="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_bluegreen_stripes.png" download><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/MOBILE_light_bluegreen_stripes.png" width="400"></a>
