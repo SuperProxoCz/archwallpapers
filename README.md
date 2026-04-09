@@ -99,6 +99,10 @@
 <br>
 <a href="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/oilpaint_grafiti.png" download><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/oilpaint_grafiti.png" width="400"></a>
 
+**[Galaxy](https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/galaxy_dark.png)**
+<br>
+<a href="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/galaxy_dark.png" download><img src="https://raw.githubusercontent.com/SuperProxoCz/archwallpapers/main/galaxy_dark.png" width="400"></a>
+
 ---
 
 # Animated
